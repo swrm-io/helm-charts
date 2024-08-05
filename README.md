@@ -13,8 +13,8 @@ swrm-io` to see the charts.
 
 To install the <chart-name> chart:
 
-    helm install my-<chart-name> swrm-io/<chart-name>
+    helm install <chart-name> swrm-io/<chart-name>
 
 To uninstall the chart:
 
-    helm delete my-<chart-name>
+    helm delete <chart-name>
