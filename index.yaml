@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   cert-manager-vultr:
   - apiVersion: v1
+    appVersion: v0.0.3
+    created: "2024-08-06T22:55:06.445166874Z"
+    description: Vultr integration for cert-manager
+    digest: 2a838677dedf9fdcc0a6c628ec31364fdbbc1ecd9899db515bc4f7efb7a88b03
+    home: https://github.com/swrm-io/cert-manager-vultr
+    keywords:
+    - cert-manager
+    - vultr
+    maintainers:
+    - name: Richard Cox
+      url: https://github.com/swrm-io/
+    name: cert-manager-vultr
+    urls:
+    - https://github.com/swrm-io/helm-charts/releases/download/cert-manager-vultr-0.0.3/cert-manager-vultr-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: v0.0.2
     created: "2024-08-05T14:28:44.245111607Z"
     description: Vultr integration for cert-manager
@@ -10,4 +26,4 @@ entries:
     urls:
     - https://github.com/swrm-io/helm-charts/releases/download/cert-manager-vultr-0.0.2/cert-manager-vultr-0.0.2.tgz
     version: 0.0.2
-generated: "2024-08-05T14:28:44.245147664Z"
+generated: "2024-08-06T22:55:06.445180109Z"
